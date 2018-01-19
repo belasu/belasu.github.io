@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: http://bela.su
+Sitemap: http://bela.su/sitemap.xml
